@@ -38,3 +38,4 @@ Maintenance kill multiple instances when needed
 ```
 pkill -f "xengpuminer"
 ```
+xen
